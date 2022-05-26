@@ -15,5 +15,4 @@ public class Main {
         book1.setYear(1812);
         System.out.println(book1.getTitle() + " " + book1.getYear() + " " + book1.getAutor().getName()+""+book1.getAutor().getSurname());
     }
-
 }
